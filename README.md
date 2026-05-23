@@ -35,7 +35,7 @@ The program generates all valid moves from the current board state and asks the 
 2. Run the program:
 
    ```bash
-   python checkersplayer.py
+   python AICheckersPlayer.py
    ```
 
 3. Enter your Gemini API key when prompted.
